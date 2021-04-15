@@ -1,7 +1,7 @@
 ﻿using Shapes.Models;
 using System;
 
-namespace Shapes
+namespace Shapes.ConsoleApp
 {
     class Program
     {

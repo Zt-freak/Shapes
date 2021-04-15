@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shapes.Models
 {
-    abstract class Shape
+    abstract public class Shape
     {
         public virtual double Width { get; set; }
         public virtual double Height { get; set; }

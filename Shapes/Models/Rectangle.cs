@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shapes.Models
 {
-    class Rectangle : Shape
+    public class Rectangle : Shape
     {
         private double area;
         public override double Area

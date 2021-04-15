@@ -1,0 +1,12 @@
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.exe
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.deps.json
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.runtimeconfig.json
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.runtimeconfig.dev.json
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.dll
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\bin\Debug\netcoreapp3.1\Shapes.ConsoleApp.pdb
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.AssemblyInfo.cs
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.dll
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.pdb
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.genruntimeconfig.cache

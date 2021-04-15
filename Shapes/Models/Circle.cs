@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shapes.Models
 {
-    class Circle : Ellipse
+    public class Circle : Ellipse
     {
         private double width;
         public override double Width

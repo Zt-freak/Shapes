@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWWwFSVqHUTkttkwXNiaFNmhVQBSMSyxGqlHL63oBWzBHXraKHxuj2zL0/OTgmes8wCEWh7QOPxftL6dAlAW3Q==",
+  "dgSpecHash": "mkSAZFSV1U1OPcnMOfqBLq87UrIJTjyhYiqf0QWiZ0A7FpkuKxnRup4UTXYw4QY7AsMOEbBmyh38GwoTlgPaBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.csproj",
+  "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

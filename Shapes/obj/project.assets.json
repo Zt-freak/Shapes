@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.csproj",
-      "projectName": "Shapes",
-      "projectPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.csproj",
+      "projectUniqueName": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.ConsoleApp.csproj",
+      "projectName": "Shapes.ConsoleApp",
+      "projectPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\Shapes.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\bnkho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

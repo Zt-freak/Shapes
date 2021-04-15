@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shapes.Models
 {
-    class Ellipse : Shape
+    public class Ellipse : Shape
     {
         private double area;
         public override double Area
