@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\Shape.Tests.csproj": {}
+    "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\Shape.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\Shape.Tests.csproj": {
+    "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\Shape.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\Shape.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\Shape.Tests.csproj",
         "projectName": "Shape.Tests",
-        "projectPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\Shape.Tests.csproj",
+        "projectPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\Shape.Tests.csproj",
         "packagesPath": "C:\\Users\\bnkho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\obj\\",
+        "outputPath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bnkho\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jLD53dwdb5bTc0kQq6sAAfxoYdYTBuR8LZI7VtW2zz7opfOWnKHnj79ArWgmmoSSVvbv+Dua1NlMTt8LuWCew==",
+  "dgSpecHash": "Q9jpHL/QBQOdJAOVPZ4NtD/YzblWsnFGBTP/FyqoECPCqR7CIs0yXkqrgX28QTm0HtJpBfUJYWksmlR5Z9Cy9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapeConsoleAppTest\\Shape.Tests.csproj",
+  "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\ShapesSolution\\ShapesTest\\Shape.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bnkho\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

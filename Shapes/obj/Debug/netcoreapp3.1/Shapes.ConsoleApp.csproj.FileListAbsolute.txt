@@ -10,3 +10,4 @@ C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes
 C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.dll
 C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.pdb
 C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.genruntimeconfig.cache
+C:\Users\bnkho\source\repos\ShapesSolution\Shapes\obj\Debug\netcoreapp3.1\Shapes.ConsoleApp.csprojAssemblyReference.cache
